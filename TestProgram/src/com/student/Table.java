@@ -13,7 +13,8 @@ public class Table {
 		int t=sc.nextInt();
 		for(int i=1; i<=10; i++)
 		{
-			System.out.println(t+"*"+i+"="+t*i);	
+			System.out.println(t+"*"+i+"="+t*i);
+			
 		}
 		System.out.println("\n");
 		System.out.println("Do you want to print any other table(for yes press y and for no press n)");
